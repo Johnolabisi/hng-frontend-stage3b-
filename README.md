@@ -7,7 +7,7 @@ In this project, you will build a **sophisticated Todo List application** with *
 
 ## :point_right: Figma Design
 - [Todo App Figma](https://www.figma.com/design/NRbd5hcrQcAa1LBbctUhf9/todo-app?node-id=0-1&p=f&m=dev)  
-Use this as your **source of truth** for the UI and UX.
+Use this as your **source of truth** for the User Interface and User Experience.
 
 ---
 
